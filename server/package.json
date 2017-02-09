@@ -1,0 +1,9 @@
+{
+  "name": "https_server_demo",
+  "version": "1.0.0",
+  "main": "https_server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
+
